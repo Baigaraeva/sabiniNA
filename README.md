@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html>
 <head>
  <h1 style="background-color:powderblue;">Өзім туралы</h1>
-<p style="background-color:tomato;">түлкібас.</p>
+<p style="background-color:tomato;">Sabina</p>
     <meta charset="UTF-8">
         <title>Sabina</title>
     <style>
