@@ -17,7 +17,7 @@
 <body>
     <p>Sabina </p>
     <p>Phylosophi</p>
-    <a href="https://https://https://sabinabaigaraeva75.wixsite.com/portfolio">Электрондық партфолия</a>
+    <a href="https://sabinabaigaraeva75.wixsite.com/portfolio">Электрондық партфолия</a>
     <h1>Sabina</h1>
     <img src="Sabinochka.jpeg" alt="Sabina">
     
